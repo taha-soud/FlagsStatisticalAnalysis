@@ -46,5 +46,7 @@ The dataset used in this analysis includes various attributes that describe flag
 2. **Explore the Results:**:
    The notebook will generate various visualizations and analysis outputs based on the dataset.
 
+
+## Conclusion
 This project serves as an exploration of flag characteristics through data analysis and visualization. The insights gained from this analysis can provide a deeper understanding of the symbolism and design choices in flag creation. The project also demonstrates how Python and data science tools can be used to extract meaningful insights from a dataset.
 
